@@ -15,7 +15,7 @@ This repository contains the dataset and code for a house price prediction model
 ## Getting Started
 To get started with this project:
 1. Clone the repository:
-   git clone https://github.com/your-username/house-price-prediction.git
+   https://github.com/nimrashahid-14/House-Price-Prediction-Model.git
 2. Install the necessary dependencies (e.g., using pip install -r requirements.txt if you have a requirements.txt file).
 3. Open the House_Price_Prediction.ipynb notebook in Jupyter and follow the steps to reproduce the results.
 
