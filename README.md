@@ -2,7 +2,7 @@
 This repository contains the dataset and code for a house price prediction model built using machine learning techniques. The model aims to predict the prices of houses based on various features such as the number of bedrooms, size of the house, location, etc.
 
 ## Contents
-- *dataset/*: Contains the house price dataset used for training and testing the model.
+- *dataset*: Contains the house price dataset used for training and testing the model.
 - *House_Price_Prediction.ipynb*: Jupyter notebook with the complete code for data preprocessing, model training, evaluation, and predictions.
 
 ## Features
